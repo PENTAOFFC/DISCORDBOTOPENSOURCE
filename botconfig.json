@@ -1,4 +1,5 @@
 {
-"token":"",//put bot token here
+  //put bot token under here
+"token":"",
 "prefix":">"
 }
