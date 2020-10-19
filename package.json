@@ -1,0 +1,14 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "LORDWARE",
+  "main": "index.js",
+  "scripts": {
+    "test": "/help"
+  },
+  "author": "PENTAOFFC",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
